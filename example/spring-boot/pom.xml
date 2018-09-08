@@ -56,7 +56,7 @@
     <dependency>
       <groupId>org.camunda.bpm.extension.swagger</groupId>
       <artifactId>camunda-bpm-swagger-json</artifactId>
-      <version>${project.version}</version>
+      <version>7.8.0</version>
     </dependency>
 
   </dependencies>
